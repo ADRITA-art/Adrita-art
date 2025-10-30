@@ -7,9 +7,6 @@
   <b>Tech Explorer • DSA Enthusiast • Fullstack Developer</b>
 </p>
 
-<p align="center">
-  <sub><i>✨ Tip: Switch GitHub to light/dark mode to see the profile vibe change!</i></sub>
-</p>
 
 ---
 ### 🚀 About Me
